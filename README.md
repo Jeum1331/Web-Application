@@ -4,4 +4,4 @@ In this project, I established a resource group in Microsoft Azure and developed
 
 Created a diagram illustrating the architecture of my cloud-based environment for the web application
 
-Ran different tests for web vulnerabilities.
+Ran different tests for web vulnerabilities in order to understand the impact it could have on a organization if Replicants were targeted.
