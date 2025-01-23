@@ -33,9 +33,3 @@ The provided network diagram includes:
 - Clear representation of all Azure components.
 - A logical and organized layout for better understanding.
 - Visual enhancements through colors and icons.
-
-## Suggestions for Improvement
-
-Future improvements could include:
-
-- **Annotations**: Adding detailed descriptions or labels to specific components in the diagram, particularly for complex network designs, to further enhance clarity.
